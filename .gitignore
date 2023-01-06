@@ -2,5 +2,8 @@
 /Data
 /.ipynb_checkpoints
 /tutorials/test
-/bert/*embeddings
+/bert/*embeddings*
 antiberta/*
+other_language_models/checkpoint_vh.pt
+other_language_models/v1
+tutorials/logs
