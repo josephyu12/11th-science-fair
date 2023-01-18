@@ -7,3 +7,5 @@ antiberta/*
 other_language_models/checkpoint_vh.pt
 other_language_models/v1
 tutorials/logs
+*.h5
+*.npy
