@@ -9,3 +9,5 @@ other_language_models/v1
 tutorials/logs
 *.h5
 *.npy
+/other_diseases/*embeddings*
+*.pkl
