@@ -1,5 +1,3 @@
-# stem-project-in-progress
+# 11th-science-fair
 
-All of my code that I have worked on throughout my STEM project will be stored here.
-
-You can find the code within these folders
+All of my code that I have worked on throughout my 11th-grade STEM project will be stored here.
